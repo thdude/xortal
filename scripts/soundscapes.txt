@@ -1,0 +1,59 @@
+"bm_pit"
+{
+	"playevent"
+	{
+		"event" "A2TrainYard.AmbSubterraneanLp"
+		"volume"	"0.53"
+		"traveler"	"AmbSubterraneanLp"
+	}
+	
+	"playevent"
+	{
+		"event" "AmbA2Drainage.ExteriorLp"
+		"traveler"	"ExteriorLp"
+	}
+	
+	"playevent"
+	{
+		"event" "AmbientCavern.WindSystemLightLp"
+		"traveler"	"WindSystemLightLp"
+		"volume"	"5.5"
+	}
+	
+	"playevent"
+	{
+		"event" "AmbA2Drainage.LargeRoomLp"
+		"traveler"	"LargeRoomLp"
+	}
+		
+	"playevent"
+	{
+		"event" "A2TrainYard.WaterdripSingle"
+		"traveler"	"WaterdripSingle"
+	}
+	
+	"playevent"
+	{
+		"event" "A2TrainYard.FliesBuzzing"
+		"volume" "0.4"
+		"traveler"	"FliesBuzzing"
+	}
+	
+	"playevent"
+	{
+		"event" "AmbA2Drainage.MetalDebris"
+		"volume" "0.3"
+		"traveler"	"MetalDebris"
+	}
+	
+	"playevent"
+	{
+		"event"	"AmbientDrainage.LevelUnique"
+		"volume"	"1.0"
+		"traveler"	"AmbientDrainageLevelUnique"
+	}
+}
+
+"vent"
+{
+	"playevent"
